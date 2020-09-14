@@ -1,0 +1,86 @@
+body
+{
+background-image: url("background.png");
+background-attachment:scroll;
+background-position:center;
+color:#FFFFFF;
+font-size:16px;
+}
+
+.machine1
+
+{
+	width:400px;
+	height:500px;
+	background-color:#000000;
+	margin-left:50px;
+	margin-right:100px;
+	margin-top:100px;
+	color:#FFFFFF;
+	float:left;
+	box-shadow:0 0 12px black;
+}
+
+h1
+
+{
+	weight:100%;
+	height:80px;
+	background-color:#000000;
+	font-size:54px;
+	font-weight:400;
+	text-align:center;
+	letter-spacing: 3px;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+h2
+{
+	font-size:30px;
+	text-align:center;
+	letter-spacing:3px;
+}
+.machine2
+{
+	width:400px;
+	height:500px;
+	background-color:#000000;
+	margin-left:auto;
+	margin-right:100px;
+	margin-top:100px;
+	color:#FFFFFF;
+	float:left;
+	box-shadow:0 0 12px black;
+}
+.machine3
+{
+	width:400px;
+	height:500px;
+	background-color:#000000;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	color:#FFFFFF;
+	float:left;
+	box-shadow:0 0 12px black;
+}
+main
+{
+	font-size:30px;
+	font-weight:400;
+	text-align:center;
+	letter-spacing: 3px;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-family: 'Montserrat Subrayada', sans-serif;
+	
+}
+h3
+{
+	font-size:15px;
+	text-align:center;
+	letter-spacing:1px;
+}
+	
